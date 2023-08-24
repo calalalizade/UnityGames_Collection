@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](../LICENSE), allowing you to us
 
 ---
 
-Enjoy the Pong game, and may the nostalgia of retro gaming bring a smile to your face! If you encounter any issues or have suggestions, feel free to [open an issue]([link_to_your_issue_tracker](https://github.com/calalalizade/UnityGames_Collection/issues)https://github.com/calalalizade/UnityGames_Collection/issues) on our GitHub repository. Have fun playing!
+Enjoy the Pong game, and may the nostalgia of retro gaming bring a smile to your face! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/calalalizade/UnityGames_Collection/issues) on our GitHub repository. Have fun playing!
