@@ -22,7 +22,6 @@ The Classic Asteroid Game is a retro-style space shooter where you control a spa
 - Classic Asteroid gameplay with modern twists.
 - Randomly generated asteroid fields for endless replayability.
 - Smooth spaceship controls for precise maneuvering.
-- Power-ups to enhance your spaceship's abilities.
 - A scoring system to track your high scores.
 
 ## Controls
