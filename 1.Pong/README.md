@@ -19,7 +19,7 @@ Pong is a simple yet addictive game where players control paddles on either side
 
 ## Features
 
-- **Single Player:** Play against an AI opponent that adapts to your skill level.
+- **Single Player:** Play against an AI opponent.
 - **Score Tracking:** Keep track of your score against the AI.
 - **Responsive Controls:** Smooth and intuitive controls for the paddles.
 - **Sound Effects:** Enjoy retro-inspired sound effects.
