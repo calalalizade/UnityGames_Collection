@@ -38,7 +38,7 @@ The Classic Asteroid Game is a retro-style space shooter where you control a spa
 
 ## Acknowledgments
 
-This game uses 2D art assets from the [Original Asteroid Art Pack](https://unluckystudio.com/game-art-giveaway-3-sci-fi-spaceship-game-sprites-pack/) created by Sujit Yadav.
+This game uses 2D art assets from the [SCI-FI SPACESHIP GAME SPRITES PACK](https://unluckystudio.com/game-art-giveaway-3-sci-fi-spaceship-game-sprites-pack/) created by Sujit Yadav.
 
 ## License
 
