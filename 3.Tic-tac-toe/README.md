@@ -21,7 +21,7 @@ Tic-Tac-Toe is a classic two-player game where the objective is to get three of 
 
 - Player vs. unbeatable AI gameplay.
 - The AI is powered by the Minimax algorithm with Alpha-Beta Pruning for optimal decision-making.
-- Beautifully rendered 3D game board.
+- Beautifully rendered 2D game board.
 - Clear indicators for player turns and game results.
 
 ## How to Play
