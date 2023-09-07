@@ -43,6 +43,7 @@ The AI in this game utilizes the powerful Minimax algorithm with Alpha-Beta Prun
 The Minimax algorithm is a decision-making algorithm used in two-player games like Tic-Tac-Toe. It evaluates all possible game states to determine the best move for the current player. The basic concept is to maximize the player's score while minimizing the opponent's score.
 
 ![Minimax Algorithm](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/fa055f4f-29ce-47df-816a-f1b882d9f30c)
+<img src="https://github.com/calalalizade/UnityGames_Collection/assets/60787777/fa055f4f-29ce-47df-816a-f1b882d9f30c" width="100" />
 
 ### Alpha-Beta Pruning
 
