@@ -36,9 +36,21 @@ To play the game, simply download the latest release from the [Releases](https:/
 
 ## AI Implementation
 
-The unbeatable AI in this game is powered by the Minimax algorithm, a decision-making algorithm widely used in two-player games like Tic-Tac-Toe. Alpha-Beta Pruning is implemented to optimize the search for the best move. This combination ensures the AI always makes the best possible move, making it exceptionally challenging to defeat.
+The AI in this game utilizes the powerful Minimax algorithm with Alpha-Beta Pruning to ensure it always makes optimal moves. Here's an overview of how it works:
 
-The AI's source code and implementation details can be found in the project's scripts.
+### Minimax Algorithm
+
+The Minimax algorithm is a decision-making algorithm used in two-player games like Tic-Tac-Toe. It evaluates all possible game states to determine the best move for the current player. The basic concept is to maximize the player's score while minimizing the opponent's score.
+
+![Minimax Algorithm](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/fa055f4f-29ce-47df-816a-f1b882d9f30c)
+
+### Alpha-Beta Pruning
+
+To optimize the Minimax algorithm's search and reduce the number of evaluated game states, Alpha-Beta Pruning is employed. This technique efficiently prunes branches of the game tree that cannot lead to a better outcome, saving computational resources.
+
+The combination of Minimax and Alpha-Beta Pruning makes the AI unbeatable. It evaluates all possible moves to find the best one, ensuring that the game remains a challenging experience for players.
+
+The AI's source code and detailed implementation can be found in the project's scripts.
 
 ## Credits
 
