@@ -2,7 +2,7 @@
 
 Welcome to the Tic-Tac-Toe game with an unbeatable AI opponent! This Unity-based game provides a challenging experience where you can test your skills against an AI powered by the Minimax algorithm with Alpha-Beta Pruning.
 
-
+![Tic-Tac-Toe Game](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/adce6203-84be-44e9-b89a-e32d4bb5e8df)
 
 ## Table of Contents
 
