@@ -42,7 +42,7 @@ The AI's source code and implementation details can be found in the project's sc
 
 ## Credits
 
-This game was developed by [me]. It was created as a learning project and for the enjoyment of the gaming community. We hope you have a great time playing!
+This game was developed by me. It was created as a learning project and for the enjoyment of the gaming community. We hope you have a great time playing!
 
 ## License
 
