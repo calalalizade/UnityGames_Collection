@@ -4,6 +4,10 @@
 
 Welcome to the Unity Games Collection repository! This repository contains a variety of small games that I've created for learning and experimentation purposes using the Unity game development engine. Please note that these games are not polished products and are primarily intended for educational purposes.
 
+## Built with 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code for both personal and commercial purposes. However, please keep in mind that the games in this collection are provided as-is and without any warranty.
