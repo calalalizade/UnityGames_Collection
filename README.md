@@ -1,4 +1,4 @@
-![Leonardo_Diffusion_Generate_an_abstract_floating_background_wi_1](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/a181ef09-32aa-4c5d-8e83-3a8731ec8203)
+![Leonardo_Diffusion_Generate_an_abstract_floating_background_wi_1](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/fb043fdb-950c-44a4-9aee-7d069c3a19e4)
 
 # UnityGames_Collection
 
