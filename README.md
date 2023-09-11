@@ -1,4 +1,4 @@
-![Leonardo_Diffusion_Einstein_playing_retro_video_game_1](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/6925c559-94d8-4bd6-8e43-e679e8698489)
+![bg](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/a8003fc7-1a07-4d57-a2f3-f72b7e70b192)
 
 # UnityGames_Collection
 
