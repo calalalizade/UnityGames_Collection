@@ -15,9 +15,9 @@ Welcome to VVVVVV, a retro-style 2D platformer game developed using the Unity ga
 **VVVVVV** is a challenging 2D platformer featuring gravity-defying gameplay. You control Captain Viridian, navigating a series of treacherous levels filled with spikes, enemies, and various obstacles. Your mission is to rescue your scattered crew members who are trapped in different dimensions.
 
 ## 2. Installation
-To play VVVVVV, you can download the game from the [Releases](https://github.com/YourUsername/YourVVVVVVRepo/releases) page on our GitHub repository. Follow these steps:
+To play VVVVVV, you can download the game from the [Releases](https://github.com/calalalizade/UnityGames_Collection/releases) page on our GitHub repository. Follow these steps:
 
-1. Visit the [Releases](https://github.com/YourUsername/YourVVVVVVRepo/releases) page.
+1. Visit the [Releases](https://github.com/calalalizade/UnityGames_Collection/releases) page.
 2. Download the latest release for your platform (Windows, macOS, or Linux).
 3. Extract the downloaded files to a folder of your choice.
 4. Run the executable file (e.g., VVVVVV.exe for Windows) to start playing.
