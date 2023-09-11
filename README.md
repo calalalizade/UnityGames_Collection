@@ -1,6 +1,8 @@
-# UnityGames_Collection
-Welcome to the Unity Games Collection repository! This repository contains a variety of small games that I've created for learning and experimentation purposes using the Unity game development engine. Please note that these games are not polished products and are primarily intended for educational purposes.
+![Leonardo_Diffusion_Einstein_playing_retro_video_game_1](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/6925c559-94d8-4bd6-8e43-e679e8698489)
 
+# UnityGames_Collection
+
+Welcome to the Unity Games Collection repository! This repository contains a variety of small games that I've created for learning and experimentation purposes using the Unity game development engine. Please note that these games are not polished products and are primarily intended for educational purposes.
 
 ## License
 
