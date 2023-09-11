@@ -1,4 +1,4 @@
-# VVVVVV Game Readme
+# VVVVVV Platformer - Demo
 
 ## Introduction
 Welcome to VVVVVV, a retro-style 2D platformer game developed using the Unity game engine. This README file is intended to provide you with important information about the game, its features, how to play it, and any other relevant details.
