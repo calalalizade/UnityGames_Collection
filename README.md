@@ -17,3 +17,5 @@ This project is licensed under the [MIT License](LICENSE), which means you can u
 These games are experimental and may contain bugs and unfinished features. They are not meant for production use or as polished, complete games. Feel free to use them as a learning resource or a starting point for your own projects.
 
 Happy gaming and learning! If you have any questions or suggestions, please feel free to open an issue or reach out to me at [contact](mailto:celal.alizade.0000@gmail.com).
+
+[![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:celal.alizade.0000@gmail.com)
