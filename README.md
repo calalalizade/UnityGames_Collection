@@ -18,4 +18,3 @@ These games are experimental and may contain bugs and unfinished features. They 
 
 Happy gaming and learning! If you have any questions or suggestions, please feel free to open an issue or reach out to me at [contact](mailto:celal.alizade.0000@gmail.com).
 
-[![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:celal.alizade.0000@gmail.com)
