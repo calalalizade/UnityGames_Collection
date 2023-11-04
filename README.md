@@ -1,4 +1,5 @@
-![BG](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/d740f209-df44-40aa-bac8-f8a2a929f8cc)
+![bg](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/65132cd9-9744-4b81-b76d-7d10721719a2)
+
 
 # UnityGames_Collection
 
