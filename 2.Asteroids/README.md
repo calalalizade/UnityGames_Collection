@@ -1,6 +1,6 @@
 # Classic Asteroid Game
 
-![asteroid](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/290112c7-ca65-4c05-a030-6f4bbe89c63c)
+![asteroids](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/ab558faf-efa1-44ac-8e9b-c2af21124a09)
 
 A classic Asteroid game created with Unity, featuring fast-paced space action and dodging asteroids.
 
