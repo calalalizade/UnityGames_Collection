@@ -1,6 +1,6 @@
 # Pong Game - Unity
 
-![pong-optimized](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/d8280bb4-0915-4b9b-a38b-3eb0d1b251d4)
+![pong](https://github.com/calalalizade/UnityGames_Collection/assets/60787777/bd161bb2-f644-4a42-aa6d-a9937b582e25)
 
 
 Welcome to the README for our Pong game built in Unity! This classic arcade game brings back the nostalgia of the old-school gaming era, where you can play against a challenging AI opponent. Below, you'll find all the information you need to get started and play the game.
