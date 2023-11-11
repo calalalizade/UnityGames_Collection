@@ -9,6 +9,9 @@ Welcome to the Unity Games Collection repository! This repository contains a var
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### Downloading Games
+For access to the games, please check the [Releases](https://github.com/calalalizade/UnityGames_Collection/releases) section.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code for both personal and commercial purposes. However, please keep in mind that the games in this collection are provided as-is and without any warranty.
