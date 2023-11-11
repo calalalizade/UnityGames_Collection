@@ -9,7 +9,8 @@ Welcome to the Unity Games Collection repository! This repository contains a var
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Downloading Games
+## Downloading Games
+
 For access to the games, please check the [Releases](https://github.com/calalalizade/UnityGames_Collection/releases) section.
 
 ## License
